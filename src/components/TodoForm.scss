@@ -1,0 +1,35 @@
+.Todotext{
+  width: 50%;
+  height: 3.5em;
+  margin-bottom: 3em;
+}
+.todoItem{
+  display: flex;
+  justify-content: space-between;
+  margin: 0 11em;
+}
+.todo-btn{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: .5em;
+}
+.todoName{
+  color: white;
+}
+input.Checkbox{
+  width: 1.25em;
+  height: 1.5em;
+}
+.todoOption{
+  display: inline-block;
+  margin-left: 1em;
+
+}
